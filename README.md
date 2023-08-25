@@ -1,14 +1,13 @@
-# Hi, It's Luigi
+# Hello, I'm Dela (Luigi)
 
-Welcome to my GitHub profile! I'm passionate about coding and open-source projects.
+![LDela]([https://your-image-url.com/your-image.jpg](https://www.publicdomainpictures.net/pictures/380000/velka/man-amp-tree-watching-universe.jpg))
 
-## Skills
+I'm a passionate web developer with a strong interest in creating interactive and user-friendly websites and web applications. Here's a bit about me:
 
-- HTML
-- CSS
-- Javascript
-- Botstrap
-- Wordpress
-- 
+- 🌐 **Web Developer**: I specialize in front-end and back-end web development.
+- 💼 **Current Job**: I currently work at [Your Current Company] as a [Your Position].
+- 🚀 **Skills**: My technical skills include HTML, CSS, JavaScript, Bootstrap, Wordpress (PHP, Elementor).
+- 💡 **Projects**: I enjoy building projects that solve real-world problems. You can check out some of my work below.
+- 📫 **Contact**: Feel free to reach out to me at maretto88@gmail.com.
 
-Feel free to explore my repositories and get in touch if you have any questions or collaborations in mind.
+
