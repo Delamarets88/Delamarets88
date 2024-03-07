@@ -1,4 +1,4 @@
-# Hello Coders, I'm Dela (Luigi)
+# Hello Coders, I'm Luigi
 I'm a self-taught passionate FrontEnd developer from Italy, living in London!
 
 <p align="center">
