@@ -8,7 +8,13 @@ I'm a self-taught passionate FrontEnd developer from Italy, living in London!
 
 # ABOUT ME
 
-I'm a web developer on a mission to turn caffeine into code and deliver pixel-perfect experiences. My superpower? Debugging with a single glance and writing CSS that only sometimes makes me question my life choices. 😄
+I'm originally from a hospitality background but now exploring the exciting world of IT as a self-taught web developer. What began as a hobby has evolved into a passion, and I'm eager to transition my career into this dynamic field.
+
+I've dived into HTML, CSS, JavaScript and I'm always itching to deepen my knowledge and skills. Building user-friendly websites and cracking coding puzzles bring me immense satisfaction.
+
+Let's connect, collaborate, and create some amazing digital experiences together!
+
+Cheers😄
 
 
 # SKILLS
